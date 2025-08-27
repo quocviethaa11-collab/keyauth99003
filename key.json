@@ -1,0 +1,17 @@
+[
+  {
+    "key": "anhkhoi",
+    "expire": "2025-09-30",
+    "hwid": "BFEBFBFF00090675",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+,
+  {
+    "key": "keytest112",
+    "expire": "2025-09-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+]
