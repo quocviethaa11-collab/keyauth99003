@@ -23,5 +23,13 @@
     "max_devices": 1,
     "used_devices": 0
     }
+  ,
     
+    {
+    "key": "VVU",
+    "expire": "2025-09-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+    }
 ]
