@@ -1,0 +1,6 @@
+[
+  {
+// Token: 0x04000A55 RID: 2645
+		private readonly string _fileName;
+	}
+]
