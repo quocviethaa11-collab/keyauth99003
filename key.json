@@ -26,7 +26,7 @@
   ,
     
     {
-    "key": "VVU2",
+    "key": "caclon",
     "expire": "2025-09-30",
     "hwid": "",
     "max_devices": 1,
@@ -58,7 +58,7 @@
     }
    ,
     {
-    "key": "QQV2",
+    "key": "caclonok",
     "expire": "2025-09-30",
     "hwid": "e06e63b8d124c31da4d927f1ecdca73f66c65436f8002c3e992035557a7a0a37",
     "max_devices": 1,
